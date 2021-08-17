@@ -22,7 +22,7 @@ To build the project
 
 | Software | Package | Version | Links |
 |---|---|---|---|
-**Visual Studio Code** | [`VS Code`](https://code.visualstudio.com) | - | [![README](https://img.shields.io/badge/README--green.svg)](https://github.com/microsoft/vscode#readme) [`VS Code`](https://code.visualstudio.com) |
+**Visual Studio Code** | [`VS Code`](https://code.visualstudio.com) | - | [![README](https://img.shields.io/badge/README--green.svg)](https://github.com/microsoft/vscode#readme) [![snapshot](https://img.shields.io/badge/snapshot--blue.svg)](https://code.visualstudio.com) |
 **Dotnet CLI** | [`.NET`](https://dotnet.microsoft.com/download) |   <a href="https://npmjs.com/package/@angular/cli" rel="nofollow"><img src="https://developer.okta.com/assets-jekyll/blog/dotnet-5-promise/onedotnetring-1e7fb56153b4ceb0628e8897d7a45ce0fb23e9ef572aca005473e4318054acff.png" width="130" height="25" alt="latest" data-canonical-src="https://developer.okta.com/assets-jekyll/blog/dotnet-5-promise/onedotnetring-1e7fb56153b4ceb0628e8897d7a45ce0fb23e9ef572aca005473e4318054acff.png" style="max-width:100%;"></a> | [![README](https://img.shields.io/badge/README--green.svg)](https://github.com/dotnet/sdk#readme)
 **Angular CLI** | [`@angular/cli`](https://angular.io/guide/setup-local) | [![latest](https://img.shields.io/npm/v/%40angular%2Fcli/latest.svg)](https://npmjs.com/package/@angular/cli) | [![README](https://img.shields.io/badge/README--green.svg)](/packages/angular/cli/README.md) [![snapshot](https://img.shields.io/badge/snapshot--blue.svg)](https://github.com/angular/cli-builds)
 
